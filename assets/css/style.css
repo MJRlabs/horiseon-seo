@@ -187,7 +187,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* Added a font-size */
 .footer {
     padding: 30px;
     clear: both;
@@ -195,7 +195,7 @@ p {
     text-align: center;
     font-size: 20;
 }
-/*
+/* commenting this line out, moving it up to clean up CSS
 .footer h4 {
     font-size: 20px;
 }
